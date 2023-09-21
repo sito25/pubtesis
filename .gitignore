@@ -1,0 +1,8 @@
+.metadata/
+.settings/
+.project
+.classpath
+tesis.iml
+/.idea/
+/out/
+/reports/
